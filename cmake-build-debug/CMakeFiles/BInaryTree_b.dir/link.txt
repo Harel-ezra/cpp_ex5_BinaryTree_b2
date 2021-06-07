@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/BInaryTree_b.dir/StudentTest2.cpp.o CMakeFiles/BInaryTree_b.dir/TestRunner.cpp.o -o BInaryTree_b 
